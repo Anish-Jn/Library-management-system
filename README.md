@@ -1,11 +1,6 @@
 # 📚 Library Management System -Java
 
 
-<a href="https://github.com/harismuneer"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=harismuneer&style=flat-square" width="125"/></a>
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#)
-[![GitHub Forks](https://img.shields.io/github/forks/harismuneer/Library-Management-System-JAVA.svg?style=social&label=Fork&maxAge=2592000)](https://www.github.com/harismuneer/Library-Management-System-JAVA/fork)
-[![GitHub Issues](https://img.shields.io/github/issues/harismuneer/Library-Management-System-JAVA.svg?style=flat&label=Issues&maxAge=2592000)](https://www.github.com/harismuneer/Library-Management-System-JAVA/issues)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
 
 
 A Library Management System made using the concepts of Object Oriented Analysis and Design. Minimal Code is written in the GUI and the entities are decoupled as well. The interface is console based. This project was designed during the course "Object Oriented Analysis and Design CS309".
@@ -101,38 +96,7 @@ Now just click Next for the rest of the windows. After all this the database con
 ## Note
 The password for Administrative Functions is *lib*. The admin adds new clerks and librarian, then they both do the rest of the functions.
 
-<hr>
 
-## Authors 👋
-
-You can get in touch with us on our LinkedIn Profiles:
-
-#### Haris Muneer
-
-[![LinkedIn Link](https://img.shields.io/badge/Connect-harismuneer-blue.svg?logo=linkedin&longCache=true&style=social&label=Follow)](https://www.linkedin.com/in/harismuneer)
-
-You can also follow my GitHub Profile to stay updated about my latest projects: [![GitHub Follow](https://img.shields.io/badge/Connect-harismuneer-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/harismuneer)
-
-#### Maham Amjad
-
-[![LinkedIn Link](https://img.shields.io/badge/Connect-maham--amjad-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect)](https://www.linkedin.com/in/maham-amjad-40796b177/)
-
-You can also follow my GitHub Profile to stay updated about my latest projects: [![GitHub Follow](https://img.shields.io/badge/Connect-maham--amjad-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/MahamAmjad)
-
-If you liked the repo then kindly support it by giving it a star ⭐ and share in your circles so more people can benefit from the effort.
-
-## Contributions Welcome
-[![GitHub Issues](https://img.shields.io/github/issues/harismuneer/Library-Management-System-JAVA.svg?style=flat&label=Issues&maxAge=2592000)](https://www.github.com/harismuneer/Library-Management-System-JAVA/issues)
-
-If you find any bugs, have suggestions, or face issues:
-
-- Open an Issue in the Issues Tab to discuss them.
-- Submit a Pull Request to propose fixes or improvements.
-- Review Pull Requests from other contributors to help maintain the project's quality and progress.
-
-This project thrives on community collaboration! Members are encouraged to take the initiative, support one another, and actively engage in all aspects of the project. Whether it’s debugging, fixing issues, or brainstorming new ideas, your contributions are what keep this project moving forward.
-
-With modern AI tools like ChatGPT, solving challenges and contributing effectively is easier than ever. Let’s work together to make this project the best it can be! 🚀
 
 
 
