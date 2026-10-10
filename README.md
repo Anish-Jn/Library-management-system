@@ -4,8 +4,7 @@
 
 
 A Library Management System made using the concepts of Object Oriented Analysis and Design. Minimal Code is written in the GUI and the entities are decoupled as well. The interface is console based. This project was designed during the course "Object Oriented Analysis and Design CS309".
-
-The **Class Diagram** of the project is also provided along with the **Database Schema** file. 
+ 
 
 ## Class Diagram
 ![class diagram](../master/images/diagram.PNG)
