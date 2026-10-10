@@ -5,13 +5,13 @@
 
 A Library Management System made using the concepts of Object Oriented Analysis and Design. Minimal Code is written in the GUI and the entities are decoupled as well. The interface is console based. This project was designed during the course "Object Oriented Analysis and Design CS309".
 
-The **Class Diagram** of the project is also provided along with the **Database Schema** file. The class diagram file can be opened using [Star UML](http://staruml.io/).
+The **Class Diagram** of the project is also provided along with the **Database Schema** file. 
 
 ## Class Diagram
 ![class diagram](../master/images/diagram.PNG)
 
 **Note**: After Refactoring, new Class "HoldRequestOperations" is added to the above structure which lies in between the HoldRequest class and Book class.
-This class removes the bidirectional dependency between HoldRequest and Book. More details mentioned [here](https://github.com/OSSpk/Library-Management-System-JAVA/issues/9) 
+This class removes the bidirectional dependency between HoldRequest and Book.
 
 ## Interface
 <p align="middle">
